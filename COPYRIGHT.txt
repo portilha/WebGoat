@@ -1,4 +1,4 @@
-This file is part of WebGoat, an Open Web Application Security Project utility. For details, please see http://www.owasp.org/
+This file is part of WebGoat, an Open Web Application Security Project utility. For details, please see http://www.owasp.org/bbb
 
 Copyright (c) 2002 - $today.year Bruce Mayhew
 
