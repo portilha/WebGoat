@@ -5,6 +5,8 @@ phases:
     commands:
       - mvn package
      
+     
+     
 artifacts:
   files:
     - webgoat-server/target/webgoat-server-8.0-SNAPSHOT.jar
